@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Bilens specifikationer",
+      "petrol": "Bensin",
+      "diesel": "Diesel",
+      "electric": "El",
+      "hybrid": "Hybrid",
+      "four_doors": "4+ dörrar",
+      "mileage": "Körsträcka",
+      "kilometers": "Kilometer",
+      "limited": "Begränsad",
+      "unlimited": "Obegränsad",
+      "transmission": "Växellåda",
+      "automatic": "Automat",
+      "manual": "Manuell",
+      "fuel_policy": "Bränslepolicy",
+      "full_to_full": "Full till full",
+      "supplier": "Leverantör"
+    },
+    "car": {
+      "seats": "Säten",
+      "baggage": "Bagage",
+      "doors": "Dörrar",
+      "automatic": "Automat",
+      "manual": "Manuell",
+      "unlimited": "Obegränsat",
+      "limited": "Begränsat",
+      "full_to_full": "Full till full",
+      "diesel": "Diesel",
+      "price_for": "Pris för",
+      "days": "dagar",
+      "total": "Totalt",
+      "price_per_day": "Pris per dag",
+      "free_amendments": "Gratis ändringar",
+      "free_cancellation": "Gratis avbokning",
+      "book_now": "Boka nu",
+      "general_conditions": "Allmänna villkor",
+      "close": "Stäng"
+    },
+    "categories": {
+      "small": "Små bilar",
+      "medium_cars": "Mellanstora bilar",
+      "large_cars": "Stora bilar",
+      "estate_cars": "Kombibilar",
+      "suv": "SUV:ar",
+      "people_carriers": "Minibussar",
+      "automatic": "Automat",
+      "premium": "Premium"
+    }
+  }
+  

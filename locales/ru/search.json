@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Характеристики автомобиля",
+      "petrol": "Бензин",
+      "diesel": "Дизель",
+      "electric": "Электро",
+      "hybrid": "Гибрид",
+      "four_doors": "4+ двери",
+      "mileage": "Пробег",
+      "kilometers": "Километры",
+      "limited": "Ограниченный",
+      "unlimited": "Неограниченный",
+      "transmission": "Коробка передач",
+      "automatic": "Автомат",
+      "manual": "Механика",
+      "fuel_policy": "Топливная политика",
+      "full_to_full": "Полный до полного",
+      "supplier": "Поставщик"
+    },
+    "car": {
+      "seats": "Места",
+      "baggage": "Багаж",
+      "doors": "Дверей",
+      "automatic": "Автомат",
+      "manual": "Механика",
+      "unlimited": "Неограниченно",
+      "limited": "Ограниченно",
+      "full_to_full": "Полный до полного",
+      "diesel": "Дизель",
+      "price_for": "Цена за",
+      "days": "дней",
+      "total": "Итого",
+      "price_per_day": "Цена за день",
+      "free_amendments": "Бесплатное изменение",
+      "free_cancellation": "Бесплатная отмена",
+      "book_now": "Забронировать сейчас",
+      "general_conditions": "Общие условия",
+      "close": "Закрыть"
+    },
+    "categories": {
+      "small": "Малолитражные автомобили",
+      "medium_cars": "Средние автомобили",
+      "large_cars": "Большие автомобили",
+      "estate_cars": "Универсалы",
+      "suv": "Внедорожники",
+      "people_carriers": "Минивэны",
+      "automatic": "Автомат",
+      "premium": "Премиум"
+    }
+  }
+  

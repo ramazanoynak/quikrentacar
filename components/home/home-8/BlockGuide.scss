@@ -1,0 +1,50 @@
+/* Base styling for the "Why Choose Us" cards */
+.why-card {
+    background-color: #fff; /* or a very light grey #f9f9f9 */
+    border: 1px solid #eee; 
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    cursor: default; /* or pointer if you want a clickable feel */
+    
+    /* Adjust spacing and fonts as needed */
+    font-family: Arial, sans-serif; 
+    font-size: 16px; /* Base text size */
+    color: #333;
+  }
+  
+  .why-card:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+    transform: translateY(-3px);
+  }
+  
+  /* Icon container */
+  .why-card__icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .why-card__img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  /* Title styling */
+  .why-card__title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 12px;
+  }
+  
+  /* Paragraph text styling */
+  .why-card__text {
+    font-size: 15px; 
+    line-height: 1.6;
+    color: #666;
+  }
+  

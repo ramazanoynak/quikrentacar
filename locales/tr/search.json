@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Araç Özellikleri",
+      "petrol": "Benzin",
+      "diesel": "Dizel",
+      "electric": "Elektrikli",
+      "hybrid": "Hibrit",
+      "four_doors": "4+ Kapı",
+      "mileage": "Kilometre",
+      "kilometers": "Kilometre",
+      "limited": "Sınırlı",
+      "unlimited": "Sınırsız",
+      "transmission": "Vites",
+      "automatic": "Otomatik",
+      "manual": "Manuel",
+      "fuel_policy": "Yakıt Politikası",
+      "full_to_full": "Depoyu Dolu Al Dolu Teslim Et",
+      "supplier": "Tedarikçi"
+    },
+    "car": {
+      "seats": "Koltuk",
+      "baggage": "Bagaj",
+      "doors": "Kapı",
+      "automatic": "Otomatik",
+      "manual": "Manuel",
+      "unlimited": "Sınırsız",
+      "limited": "Sınırlı",
+      "full_to_full": "Depoyu Dolu Al Dolu Teslim Et",
+      "diesel": "Dizel",
+      "price_for": "Şu süre için fiyat:",
+      "days": "gün",
+      "total": "Toplam",
+      "price_per_day": "Günlük Fiyat",
+      "free_amendments": "Ücretsiz Değişiklik",
+      "free_cancellation": "Ücretsiz İptal",
+      "book_now": "Şimdi Rezerve Et",
+      "general_conditions": "Genel Koşullar",
+      "close": "Kapat"
+    },
+    "categories": {
+      "small": "Küçük Araçlar",
+      "medium_cars": "Orta Sınıf Araçlar",
+      "large_cars": "Büyük Araçlar",
+      "estate_cars": "Station Wagonlar",
+      "suv": "SUV’ler",
+      "people_carriers": "Minivanlar",
+      "automatic": "Otomatik",
+      "premium": "Premium"
+    }
+  }
+  

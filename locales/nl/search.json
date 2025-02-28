@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Autospecificaties",
+      "petrol": "Benzine",
+      "diesel": "Diesel",
+      "electric": "Elektrisch",
+      "hybrid": "Hybride",
+      "four_doors": "4+ deuren",
+      "mileage": "Kilometerstand",
+      "kilometers": "Kilometers",
+      "limited": "Beperkt",
+      "unlimited": "Onbeperkt",
+      "transmission": "Versnellingstype",
+      "automatic": "Automatisch",
+      "manual": "Handgeschakeld",
+      "fuel_policy": "Brandstofbeleid",
+      "full_to_full": "Vol naar vol",
+      "supplier": "Leverancier"
+    },
+    "car": {
+      "seats": "Zitplaatsen",
+      "baggage": "Bagage",
+      "doors": "Deuren",
+      "automatic": "Automatisch",
+      "manual": "Handgeschakeld",
+      "unlimited": "Onbeperkt",
+      "limited": "Beperkt",
+      "full_to_full": "Vol naar vol",
+      "diesel": "Diesel",
+      "price_for": "Prijs voor",
+      "days": "dagen",
+      "total": "Totaal",
+      "price_per_day": "Prijs per dag",
+      "free_amendments": "Gratis wijzigingen",
+      "free_cancellation": "Gratis annulering",
+      "book_now": "Nu boeken",
+      "general_conditions": "Algemene voorwaarden",
+      "close": "Sluiten"
+    },
+    "categories": {
+      "small": "Kleine auto's",
+      "medium_cars": "Middelgrote auto's",
+      "large_cars": "Grote auto's",
+      "estate_cars": "Stationwagens",
+      "suv": "SUV’s",
+      "people_carriers": "Personenbusjes",
+      "automatic": "Automatisch",
+      "premium": "Premium"
+    }
+  }
+  

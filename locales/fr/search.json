@@ -1,0 +1,50 @@
+{
+    "filters": {
+        "car_specifications": "Spécifications de la voiture",
+        "petrol": "Essence",
+        "diesel": "Diesel",
+        "electric": "Électrique",
+        "hybrid": "Hybride",
+        "four_doors": "4+ portes",
+        "mileage": "Kilométrage",
+        "kilometers": "Kilomètres",
+        "limited": "Limité",
+        "unlimited": "Illimité",
+        "transmission": "Transmission",
+        "automatic": "Automatique",
+        "manual": "Manuelle",
+        "fuel_policy": "Politique de carburant",
+        "full_to_full": "Plein à plein",
+        "supplier": "Fournisseur"
+    },
+    "car": {
+        "seats": "Seats",
+        "baggage": "Baggage",
+        "doors": "Doors",
+        "automatic": "Automatic",
+        "manual": "Manual",
+        "unlimited": "Unlimited",
+        "limited": "Limited",
+        "full_to_full": "Full to Full",
+        "diesel": "Diesel",
+        "price_for": "Price for",
+        "days": "days",
+        "total": "Total",
+        "price_per_day": "Price per day",
+        "free_amendments": "Free amendments",
+        "free_cancellation": "Free cancellation",
+        "book_now": "Book now",
+        "general_conditions": "General conditions",
+        "close": "Close"
+    },
+    "categories": {
+        "small": "Small Cars",
+        "medium_cars": "Medium Cars",
+        "large_cars": "Large Cars",
+        "estate_cars": "Estate Cars",
+        "suv": "SUVs",
+        "people_carriers": "People Carriers",
+        "automatic": "Automatic",
+        "premium": "Premium"
+    }
+}

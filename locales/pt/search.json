@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Especificações do Veículo",
+      "petrol": "Gasolina",
+      "diesel": "Diesel",
+      "electric": "Elétrico",
+      "hybrid": "Híbrido",
+      "four_doors": "4+ Portas",
+      "mileage": "Quilometragem",
+      "kilometers": "Quilômetros",
+      "limited": "Limitada",
+      "unlimited": "Ilimitada",
+      "transmission": "Transmissão",
+      "automatic": "Automático",
+      "manual": "Manual",
+      "fuel_policy": "Política de Combustível",
+      "full_to_full": "Tanque Cheio/Devolver Cheio",
+      "supplier": "Fornecedor"
+    },
+    "car": {
+      "seats": "Assentos",
+      "baggage": "Bagagem",
+      "doors": "Portas",
+      "automatic": "Automático",
+      "manual": "Manual",
+      "unlimited": "Ilimitada",
+      "limited": "Limitada",
+      "full_to_full": "Tanque Cheio/Devolver Cheio",
+      "diesel": "Diesel",
+      "price_for": "Preço para",
+      "days": "dias",
+      "total": "Total",
+      "price_per_day": "Preço por dia",
+      "free_amendments": "Alterações gratuitas",
+      "free_cancellation": "Cancelamento gratuito",
+      "book_now": "Reservar agora",
+      "general_conditions": "Condições gerais",
+      "close": "Fechar"
+    },
+    "categories": {
+      "small": "Carros Pequenos",
+      "medium_cars": "Carros Médios",
+      "large_cars": "Carros Grandes",
+      "estate_cars": "Station Wagon",
+      "suv": "SUVs",
+      "people_carriers": "Vans/Minivans",
+      "automatic": "Automáticos",
+      "premium": "Premium"
+    }
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "车辆规格",
+      "petrol": "汽油",
+      "diesel": "柴油",
+      "electric": "电动",
+      "hybrid": "混合动力",
+      "four_doors": "4+ 门",
+      "mileage": "里程",
+      "kilometers": "公里数",
+      "limited": "有限",
+      "unlimited": "无限",
+      "transmission": "变速箱",
+      "automatic": "自动挡",
+      "manual": "手动挡",
+      "fuel_policy": "燃油政策",
+      "full_to_full": "满油取还",
+      "supplier": "供应商"
+    },
+    "car": {
+      "seats": "座位数",
+      "baggage": "行李数",
+      "doors": "车门数",
+      "automatic": "自动挡",
+      "manual": "手动挡",
+      "unlimited": "无限里程",
+      "limited": "有限里程",
+      "full_to_full": "满油取还",
+      "diesel": "柴油",
+      "price_for": "价格（适用于",
+      "days": "天）",
+      "total": "总价",
+      "price_per_day": "单日价格",
+      "free_amendments": "免费改期",
+      "free_cancellation": "免费取消",
+      "book_now": "立即预订",
+      "general_conditions": "一般条款",
+      "close": "关闭"
+    },
+    "categories": {
+      "small": "小型车",
+      "medium_cars": "中型车",
+      "large_cars": "大型车",
+      "estate_cars": "旅行车",
+      "suv": "SUV",
+      "people_carriers": "多人车",
+      "automatic": "自动挡",
+      "premium": "高端车"
+    }
+  }
+  

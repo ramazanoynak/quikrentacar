@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Fahrzeugspezifikationen",
+      "petrol": "Benzin",
+      "diesel": "Diesel",
+      "electric": "Elektro",
+      "hybrid": "Hybrid",
+      "four_doors": "4+ Türen",
+      "mileage": "Kilometerstand",
+      "kilometers": "Kilometer",
+      "limited": "Begrenzt",
+      "unlimited": "Unbegrenzt",
+      "transmission": "Getriebe",
+      "automatic": "Automatik",
+      "manual": "Manuell",
+      "fuel_policy": "Kraftstoffrichtlinie",
+      "full_to_full": "Voll/voll",
+      "supplier": "Anbieter"
+    },
+    "car": {
+      "seats": "Sitze",
+      "baggage": "Gepäck",
+      "doors": "Türen",
+      "automatic": "Automatik",
+      "manual": "Manuell",
+      "unlimited": "Unbegrenzt",
+      "limited": "Begrenzt",
+      "full_to_full": "Voll/voll",
+      "diesel": "Diesel",
+      "price_for": "Preis für",
+      "days": "Tage",
+      "total": "Gesamt",
+      "price_per_day": "Preis pro Tag",
+      "free_amendments": "Kostenlose Änderungen",
+      "free_cancellation": "Kostenlose Stornierung",
+      "book_now": "Jetzt buchen",
+      "general_conditions": "Allgemeine Bedingungen",
+      "close": "Schließen"
+    },
+    "categories": {
+      "small": "Kleine Autos",
+      "medium_cars": "Mittelklasse",
+      "large_cars": "Große Autos",
+      "estate_cars": "Kombis",
+      "suv": "SUVs",
+      "people_carriers": "Personentransporter",
+      "automatic": "Automatik",
+      "premium": "Premium"
+    }
+  }
+  

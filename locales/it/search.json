@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Specifiche del veicolo",
+      "petrol": "Benzina",
+      "diesel": "Diesel",
+      "electric": "Elettrico",
+      "hybrid": "Ibrido",
+      "four_doors": "4+ porte",
+      "mileage": "Chilometraggio",
+      "kilometers": "Chilometri",
+      "limited": "Limitato",
+      "unlimited": "Illimitato",
+      "transmission": "Trasmissione",
+      "automatic": "Automatica",
+      "manual": "Manuale",
+      "fuel_policy": "Politica sul carburante",
+      "full_to_full": "Pieno a pieno",
+      "supplier": "Fornitore"
+    },
+    "car": {
+      "seats": "Posti",
+      "baggage": "Bagagli",
+      "doors": "Porte",
+      "automatic": "Automatica",
+      "manual": "Manuale",
+      "unlimited": "Illimitato",
+      "limited": "Limitato",
+      "full_to_full": "Pieno a pieno",
+      "diesel": "Diesel",
+      "price_for": "Prezzo per",
+      "days": "giorni",
+      "total": "Totale",
+      "price_per_day": "Prezzo al giorno",
+      "free_amendments": "Modifiche gratuite",
+      "free_cancellation": "Cancellazione gratuita",
+      "book_now": "Prenota ora",
+      "general_conditions": "Condizioni generali",
+      "close": "Chiudi"
+    },
+    "categories": {
+      "small": "Auto piccole",
+      "medium_cars": "Auto medie",
+      "large_cars": "Auto grandi",
+      "estate_cars": "Station Wagon",
+      "suv": "SUV",
+      "people_carriers": "Monovolume",
+      "automatic": "Automatiche",
+      "premium": "Premium"
+    }
+  }
+  

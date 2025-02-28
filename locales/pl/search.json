@@ -1,0 +1,51 @@
+{
+    "filters": {
+      "car_specifications": "Specyfikacje samochodu",
+      "petrol": "Benzyna",
+      "diesel": "Diesel",
+      "electric": "Elektryczny",
+      "hybrid": "Hybrydowy",
+      "four_doors": "4+ drzwi",
+      "mileage": "Przebieg",
+      "kilometers": "Kilometry",
+      "limited": "Ograniczony",
+      "unlimited": "Nielimitowany",
+      "transmission": "Skrzynia biegów",
+      "automatic": "Automatyczna",
+      "manual": "Manualna",
+      "fuel_policy": "Polityka paliwowa",
+      "full_to_full": "Pełny do pełna",
+      "supplier": "Dostawca"
+    },
+    "car": {
+      "seats": "Miejsca",
+      "baggage": "Bagaż",
+      "doors": "Drzwi",
+      "automatic": "Automatyczna",
+      "manual": "Manualna",
+      "unlimited": "Nielimitowany",
+      "limited": "Ograniczony",
+      "full_to_full": "Pełny do pełna",
+      "diesel": "Diesel",
+      "price_for": "Cena za",
+      "days": "dni",
+      "total": "Razem",
+      "price_per_day": "Cena za dzień",
+      "free_amendments": "Darmowa zmiana rezerwacji",
+      "free_cancellation": "Darmowe odwołanie",
+      "book_now": "Zarezerwuj teraz",
+      "general_conditions": "Warunki ogólne",
+      "close": "Zamknij"
+    },
+    "categories": {
+      "small": "Małe auta",
+      "medium_cars": "Średnie auta",
+      "large_cars": "Duże auta",
+      "estate_cars": "Kombi",
+      "suv": "SUV-y",
+      "people_carriers": "Minivany",
+      "automatic": "Automatyczne",
+      "premium": "Premium"
+    }
+  }
+  

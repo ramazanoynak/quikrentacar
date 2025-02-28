@@ -1,0 +1,3 @@
+  User-agent: *
+  Allow: /
+  Sitemap: https://quikrentacar.com/sitemap.xml

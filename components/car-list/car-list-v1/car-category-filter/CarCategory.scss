@@ -1,0 +1,56 @@
+.smallBoxContainer {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  transition: border 0.3s ease;
+  &.active {
+    border: 2px solid #007bff;
+  }
+}
+
+.carDest {
+  h3 {
+    font-size: 17px;
+  }
+}
+
+.jcarousel-wrapper {
+  width: 100%;
+}
+
+.slick-next,
+.slick-prev {
+  z-index: 2; /* Ensure arrows are above the slider */
+}
+
+.slick-next,
+.slick-prev::after {
+  display: none; /* Ensure arrows are above the slider */
+}
+
+.slick-prev::before,
+.slick-next::before {
+  content: none !important; /* Removes the default arrows */
+}
+
+.custom-arrow {
+  background: #000 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.custom-arrow:hover {
+  background: #444 !important;
+}
+
+.slick-disabled {
+  opacity: 0.5 !important;
+  pointer-events: none;
+}

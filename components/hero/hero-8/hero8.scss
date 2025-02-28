@@ -1,0 +1,284 @@
+// .masthead{
+//     .masthead__bg{
+//         background: linear-gradient(to bottom right, #0074D9, #0e65bf);
+//     }
+//     h1{
+//         font-family: Arial, sans-serif;
+//         color: white;
+//     }
+
+//     p{
+//         font-family: Arial, sans-serif;
+//         font-size: 20px;
+//         font-weight: bold;
+//         color: white;
+//     }
+
+// }
+
+// .feature-list-container {
+//     margin-top: 20px;     // space above the feature list
+//     text-align: center;   // center the list items horizontally
+
+//     .feature-list {
+//       display: inline-flex;      // horizontally inline
+//       flex-wrap: wrap;           // wrap items on small screens
+//       gap: 1rem;                 // space between items
+//       list-style: none;          // remove default bullets
+//       margin: 0;
+//       padding: 0;
+
+//       li {
+//         display: flex;
+//         align-items: center;     // vertically center icon/text
+//         color: #fff;             // text color (white if your background is dark)
+//         font-weight: 500;        // optional
+//         font-family: Arial, sans-serif;
+
+//         .icon-check {
+//           font-size: 1.2rem;     // size of the check icon
+//           color: #4caf50;        // green color
+//           margin-right: 8px;     // spacing between icon and text
+//         }
+//       }
+//     }
+//   }
+
+//   //suppliers UI section
+
+//   .supplier-list-section {
+//     padding: 40px 0;
+//     background-color: white; // or a darker color if you want contrast
+//     padding-top: 10%;
+
+//     .container {
+//       max-width: 1200px;
+//       margin: 0 auto;
+//     }
+
+//     .supplier-list-header {
+//       display: flex;
+//       justify-content: space-between;
+//       align-items: center;
+//       margin-bottom: 24px;
+
+//       h2 {
+//         font-size: 24px;
+//         color: #222;
+
+//         mark {
+//           background: none;
+//           color: #f15e2c; // highlight color
+//           font-weight: 700;
+//         }
+//       }
+
+//       .view-all-suppliers {
+//         font-size: 14px;
+//         color: #007bff;
+//         text-decoration: none;
+//         display: inline-flex;
+//         align-items: center;
+//         i {
+//           margin-left: 4px;
+//           font-size: 16px;
+//         }
+
+//         &:hover {
+//           text-decoration: underline;
+//         }
+//       }
+//     }
+
+//     .supplier-list-logos {
+//       display: flex;
+//       flex-wrap: wrap; // ensures logos wrap to next line on smaller screens
+//       gap: 16px;       // spacing between logos
+
+//       .supplier-logo-item {
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         height: 60px;    // adjust as needed
+//         padding: 4px 8px;
+//         background-color: #fff;
+//         border-radius: 4px;
+//         text-decoration: none;
+
+//         img {
+//           max-height: 40px; // or whatever fits your design
+//           object-fit: contain;
+//         }
+
+//         &:hover {
+//           background-color: #eef; // subtle hover effect
+//         }
+//       }
+//     }
+
+//     .supplier-list-footer {
+//       margin-top: 24px;
+//       text-align: center;
+
+//       .view-all-suppliers {
+//         font-size: 14px;
+//         color: #007bff;
+//         text-decoration: none;
+//         display: inline-flex;
+//         align-items: center;
+
+//         i {
+//           margin-left: 4px;
+//           font-size: 16px;
+//         }
+
+//         &:hover {
+//           text-decoration: underline;
+//         }
+//       }
+//     }
+//   }
+
+.masthead {
+  .masthead__bg {
+    background: linear-gradient(to bottom right, #0074d9, #0e65bf);
+  }
+  h1 {
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+  }
+}
+
+.masthead.-type-8 {
+  padding-top: 170px;
+}
+
+.feature-list-container {
+  margin-top: 20px; // space above the feature list
+  text-align: center; // center the list items horizontally
+
+  .feature-list {
+    display: inline-flex; // horizontally inline
+    flex-wrap: wrap; // wrap items on small screens
+    gap: 1rem; // space between items
+    list-style: none; // remove default bullets
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: flex;
+      align-items: center; // vertically center icon/text
+      color: #fff; // text color (white if your background is dark)
+      font-weight: 500; // optional
+      font-family: Arial, sans-serif;
+
+      .icon-check {
+        font-size: 1.2rem; // size of the check icon
+        color: #4caf50; // green color
+        margin-right: 8px; // spacing between icon and text
+      }
+    }
+  }
+}
+
+//suppliers UI section
+
+.supplier-list-section {
+  padding: 40px 0;
+  background-color: white; // or a darker color if you want contrast
+  padding-top: 10%;
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .supplier-list-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+
+    h2 {
+      font-size: 24px;
+      color: #222;
+
+      mark {
+        background: none;
+        color: #f15e2c; // highlight color
+        font-weight: 700;
+      }
+    }
+
+    .view-all-suppliers {
+      font-size: 14px;
+      color: #007bff;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      i {
+        margin-left: 4px;
+        font-size: 16px;
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .supplier-list-logos {
+    display: flex;
+    flex-wrap: wrap; // ensures logos wrap to next line on smaller screens
+    gap: 16px; // spacing between logos
+
+    .supplier-logo-item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 60px; // adjust as needed
+      padding: 4px 8px;
+      background-color: #fff;
+      border-radius: 4px;
+      text-decoration: none;
+
+      img {
+        max-height: 40px; // or whatever fits your design
+        object-fit: contain;
+      }
+
+      &:hover {
+        background-color: #eef; // subtle hover effect
+      }
+    }
+  }
+
+  .supplier-list-footer {
+    margin-top: 24px;
+    text-align: center;
+
+    .view-all-suppliers {
+      font-size: 14px;
+      color: #007bff;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+
+      i {
+        margin-left: 4px;
+        font-size: 16px;
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

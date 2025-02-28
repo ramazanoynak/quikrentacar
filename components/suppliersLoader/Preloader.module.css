@@ -1,0 +1,79 @@
+.preloader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+  }
+  
+  .logoContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .logoGray img {
+    width: 100px;
+    filter: grayscale(100%);
+    opacity: 0.5;
+    transition: filter 0.6s ease, opacity 0.6s ease;
+  }
+  
+  .logoActive img {
+    width: 100px;
+    filter: grayscale(0%);
+    opacity: 1;
+    transition: filter 0.6s ease, opacity 0.6s ease;
+  }
+  
+  .loadingText {
+    margin-top: 30px;
+    font-size: 1.2rem;
+    color: #333;
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .spinner {
+    width: 60px;
+    height: 60px;
+    border: 6px solid #ddd;
+    border-top: 6px solid #007bff;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+  }
+  
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .brandName {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 2rem;
+  }
+  
+  .supplierRow {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 80%;
+  }
+  
+  .supplierLogo {
+    width: 80px;
+    opacity: 0.4;
+    transition: opacity 0.3s ease;
+  }
+  .supplierLogo:hover {
+    opacity: 1;
+  }
+  
+  
